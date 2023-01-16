@@ -18,5 +18,5 @@ class animal_swan(animal):
         super()._init_(nama,spesies,ordo,kelas)
         super().show()
 
-anggrek = animal_cat('Kucing','Felis Catus','Carnivora', 'Mamamlia')
-mawar = animal_swan('Angsa','Cygnini','Anseriformes','Aves')
+kucing = animal_cat('Kucing','Felis Catus','Carnivora', 'Mamamlia')
+angsa = animal_swan('Angsa','Cygnini','Anseriformes','Aves')
